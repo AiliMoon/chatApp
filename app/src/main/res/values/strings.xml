@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">chatApp</string>
+    <string name="verify_your_number">Verify your number</string>
+    <string name="phone_number">Phone number</string>
+    <string name="input_your_name">Input your name</string>
+    <string name="save">save</string>
+    <string name="add_contacts">Add contacts</string>
+    <string name="code">Code</string>
+    <string name="verify">Verify</string>
+    <string name="type_message">type message here...</string>
+    <string name="send_message">Send message</string>
+    <string name="default_notification_channel_id">high channel</string>
+</resources>
